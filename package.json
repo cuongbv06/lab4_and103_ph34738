@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.3",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "lab4_and103_ph34738",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
